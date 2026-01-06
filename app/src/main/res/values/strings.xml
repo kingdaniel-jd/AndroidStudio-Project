@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BSIT_3-2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_with">Login with</string>
+    <string name="mainLogo">mainlogo</string>
+    <string name="signup">Sign Up</string>
+    <string name="or">OR</string>
+    <string name="seiku">Seiku</string>
+    <string name="getStarted">Get Started</string>
+    <string name="backButton">Back</string>
+    <string name="shopNow">Shop Now!</string>
+
+</resources>
